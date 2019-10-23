@@ -3,14 +3,20 @@
 
     $('.sidenav').sidenav();
     $('.parallax').parallax();
+    $('.sidenav li').click(() => {
+      $('.sidenav').sidenav('close');
+    })
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
 $(document).ready(function(){
   $('.carousel').carousel({
-    indicators: true
+    indicators: true,
+    
+    
   });
+  
 
   // $('#deployedbtn').click(function() {
   //       $(this);
