@@ -91,7 +91,14 @@ nav{
 .logos{
   height: 50px;
 }
+.logos:hover{
+  height: 60px;
+}
 
 .resLogo{
   height: 70px;
+}
+
+.resLogo:hover{
+  height: 80px;
 }
