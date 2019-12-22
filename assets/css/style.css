@@ -92,7 +92,7 @@ nav{
   height: 50px;
 }
 .logos:hover{
-  height: 60px;
+  transform: scale(1.1)
 }
 
 .resLogo{
@@ -100,7 +100,7 @@ nav{
 }
 
 .resLogo:hover{
-  height: 80px;
+  transform: scale(1.1)
 }
 
 #deployedBtn:hover{
