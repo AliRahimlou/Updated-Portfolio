@@ -92,7 +92,7 @@ nav{
   height: 50px;
 }
 .logos:hover{
-  transform: scale(1.1)
+  transform: scale(1.1);
 }
 
 .resLogo{
@@ -100,13 +100,18 @@ nav{
 }
 
 .resLogo:hover{
-  transform: scale(1.1)
+  transform: scale(1.1);
 }
 
 #deployedBtn:hover{
-transform: scale(1.1)
+transform: scale(1.1);
 }
 
 #gitHubBtn:hover{
-  transform: scale(1.1)
+  transform: scale(1.1);
   }
+
+  h3{
+    font-family: 'Fondamento', cursive;
+  }
+
