@@ -102,3 +102,11 @@ nav{
 .resLogo:hover{
   height: 80px;
 }
+
+#deployedBtn:hover{
+transform: scale(1.1)
+}
+
+#gitHubBtn:hover{
+  transform: scale(1.1)
+  }
