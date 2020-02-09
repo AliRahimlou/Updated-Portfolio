@@ -115,3 +115,7 @@ transform: scale(1.1);
     font-family: 'Fondamento', cursive;
   }
 
+a:hover{
+  color: rgb(82, 82, 241);
+  transform: scale(1.1);
+}
