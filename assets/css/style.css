@@ -98,6 +98,10 @@ nav{
   transform: scale(1.1);
 }
 
+#gitHubLogo{
+  margin-top: -1rem;
+}
+
 .resLogo{
   height: 70px;
 }
