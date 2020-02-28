@@ -39,8 +39,10 @@ p {
   }
   #logo-container{
     width: 100%;
-    
   }
+  #addIcon{
+    margin-top: 4rem;
+    }
   
 }
 
@@ -48,8 +50,9 @@ p {
   #index-banner .section {
     top: 0;
   }
-
-
+  #addIcon{
+    margin-top: 4rem;
+    }
 }
 
 .icon-block {
@@ -142,3 +145,4 @@ a:hover{
   -webkit-background-clip: text;
   background-clip: text;
 }
+
