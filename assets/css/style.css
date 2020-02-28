@@ -121,3 +121,13 @@ a:hover{
   color: rgb(82, 82, 241);
   transform: scale(1.1);
 }
+
+ .tealColor{
+  color: #26a69a;
+  font-family: 'Love Ya Like A Sister';
+  font-size: 2rem;
+}
+
+.madeBy{
+  color: rgb(0, 238, 255);
+}
