@@ -43,6 +43,9 @@ p {
   #addIcon{
     margin-top: 3rem;
     }
+    .profilePic{
+      margin-left: 11rem;
+    }
   
 }
 
@@ -52,6 +55,9 @@ p {
   }
   #addIcon{
     margin-top: 3rem;
+    }
+    .profilePic{
+      margin-left: 20rem;
     }
 }
 
