@@ -176,9 +176,15 @@ margin-top: 1rem;
 }
 .footer {
   position:fixed;
+  height: 75px;
   bottom: 60px;
   width: 100%;
   text-align: center;
+  background-image: url('../images/prism.png');
 }
-    
+
+.footerText{
+  color: rgb(211, 206, 206);
+  margin-top: 10%;
+}
     
