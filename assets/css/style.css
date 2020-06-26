@@ -145,14 +145,23 @@ height: 70px;
   transform: scale(1.1);
 }
 
+#deployedBtn{
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+#gitHubBtn{
+  margin-top: 5px;
+}
+
 #deployedBtn:hover{
 transform: scale(1.1);
-color: rgb(6, 179, 223)!important;
+color: #26a69a!important;
 }
 
 #gitHubBtn:hover{
   transform: scale(1.1);
-  color: rgb(6, 179, 223)!important;
+  color: #26a69a!important;
   }
 
   h3{
@@ -160,7 +169,7 @@ color: rgb(6, 179, 223)!important;
   }
 
 a:hover{
-  color: rgb(82, 82, 241);
+  color: #26a69a;
   transform: scale(1.1);
 }
 
